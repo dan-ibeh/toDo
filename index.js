@@ -93,7 +93,7 @@ function addTask(itemObj) {
 }
 
 function delTask(event) {
-  if (confirm("Deleting will permanently remove this task from this list. Do you want to continue?")) {
+  if (confirm("Deleting this task will permanently remove it from this list. Do you want to continue?")) {
     li = event.target.parentElement.parentElement;
     deleteItem(li);
     a_list = localStorage.getItem("fullList");

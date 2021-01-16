@@ -1,4 +1,4 @@
-Deployed site: https://dan-ibeh.github.io/to-do/
+Deployed site: https://dan-ibeh.github.io/toDo/
 
 # How To Submit Your Assingment
 
